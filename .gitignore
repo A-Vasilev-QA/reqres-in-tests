@@ -25,7 +25,6 @@
 .allure/
 .gradle/
 allure-results/
-gradle/*
 build/
 bin/
 out/
@@ -40,3 +39,4 @@ target/
 .todo
 *.properties
 
+/gradle/
