@@ -1,5 +1,6 @@
+package qa.avasilev;
+
 import jdk.jfr.Description;
-import org.hamcrest.Matchers;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
